@@ -1,0 +1,23 @@
+{
+  "name": "project_name",
+  "version": "0.1.0",
+  "description": "REST API project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no tests specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.18"
+  }
+}
